@@ -1,7 +1,7 @@
 public class LogOut {
     public static void main(String[] args) {
         
-        System.out.println("Vesile")
+        System.out.println("Vesile");
 
     }
 }
